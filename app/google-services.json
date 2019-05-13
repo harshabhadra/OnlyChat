@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888665981884",
+    "firebase_url": "https://onlychat-dc7bd.firebaseio.com",
+    "project_id": "onlychat-dc7bd",
+    "storage_bucket": "onlychat-dc7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888665981884:android:418c4ba37bc34b02",
+        "android_client_info": {
+          "package_name": "com.example.android.onlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888665981884-pd0hmse9gi1007haejjmu9oq5n3fbio1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.onlychat",
+            "certificate_hash": "bea699bab1844126ffba4c148200d4edb948faab"
+          }
+        },
+        {
+          "client_id": "888665981884-i4gqmb2r2h5ask9dl99q9nhofgou5arp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJpzO97YTMyqHLPMn73StAUKHqGTgIEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888665981884-i4gqmb2r2h5ask9dl99q9nhofgou5arp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
